@@ -1,0 +1,9 @@
+= A Custom Facebook component implemented in Talend Component kit, works fine only with Talend 7.1.xx
+
+
+
+
+= Deploy to Studio with the following command
+- switch to project directory e.g (FacebookInputCm) and type the following command
+- mvnw clean install talend-component:deploy-in-studio        -Dtalend.component.studioHome=path to studio on your local machine e.g C:\Talend\studio\
+
